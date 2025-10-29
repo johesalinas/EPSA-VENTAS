@@ -1,0 +1,66 @@
+name: epsa_ventas
+description: "Aplicacion de soporte para el equipo de ventas de EPSA México"
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  open_filex: ^4.7.0
+  cupertino_icons: ^1.0.8
+  flutter_pdfview: ^1.4.3
+  path_provider: ^2.1.5
+  flutter_launcher_icons: ^0.14.4
+  flutter_native_splash: ^2.4.7
+  flutter_svg: ^2.2.1
+  url_launcher: ^6.3.2
+  web: ^1.1.1
+  shared_preferences: ^2.3.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/branding/epsa_logo.svg
+    - assets/branding/docs_icon.svg
+    - assets/pdfs/DataSheets/CVT/
+    - assets/pdfs/DataSheets/TWI/
+    - assets/pdfs/DataSheets/NBE/
+    - assets/pdfs/DataSheets/LCP/
+    - assets/pdfs/DataSheets/CHO/
+    - assets/pdfs/DataSheets/CYA/
+    - assets/pdfs/DataSheets/RLW/
+    - assets/pdfs/DataSheets/MPE/
+    - assets/pdfs/DataSheets/DCL/
+    - assets/pdfs/DataSheets/PII/
+    - assets/pdfs/Planos/CVT/
+    - assets/pdfs/Planos/TWI/
+    - assets/pdfs/Planos/NBE/
+    - assets/pdfs/Planos/LCP/
+    - assets/pdfs/Planos/CHO/
+    - assets/pdfs/Planos/CYA/
+    - assets/pdfs/Planos/RLW/
+    - assets/pdfs/Planos/MPE/
+    - assets/pdfs/Planos/DCL/
+    - assets/pdfs/Planos/PII/
+
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: assets/branding/icon_512.png
+
+flutter_native_splash:
+  color: "#ffffff"
+  image: assets/branding/icon_512.png
