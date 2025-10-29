@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "4566cf49053690aededf3a4e19b5c433",
-"assets/AssetManifest.bin.json": "939f5d15a26d0e0f35464814f791876b",
-"assets/AssetManifest.json": "c746efd8568c6f7c330ded0e7bbe76d2",
+const RESOURCES = {"assets/AssetManifest.bin": "3cb7cfcd194692536df59790d462dd34",
+"assets/AssetManifest.bin.json": "37d2c145f483e02b152bb955f89bc5a7",
+"assets/AssetManifest.json": "139d913ae03e3897ed1479bb4c2c962e",
 "assets/assets/branding/docs_icon.svg": "110bb0caeafb99c9e0b3cda4028232e3",
 "assets/assets/branding/epsa_logo.svg": "18a36547fe5fdde497473aacd34362ea",
 "assets/assets/pdfs/DataSheets/CHO/CBE-DS.pdf": "08944e20399b247c2c6a4b83e5c7f987",
@@ -44,7 +44,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "4566cf49053690aededf3a4e19b5c433
 "assets/assets/pdfs/DataSheets/TWI/New-Bulk-Bag-Unloader-1.3.pdf": "c9b09427862a97777ab38836731b5b55",
 "assets/assets/pdfs/DataSheets/TWI/NewGravimetric-1.4.pdf": "3ac81e44e7425c48b9f8e6c943b5b8ae",
 "assets/assets/pdfs/DataSheets/TWI/NewVolumetric-1.3.pdf": "535b4b21a945a02ddacf975d230e3d36",
-"assets/assets/pdfs/DataSheets/TWI/Weigh%2520Belt%2520Feeder-1.5.pdf": "bbdf1b02914419f63375666806f81362",
+"assets/assets/pdfs/DataSheets/TWI/Weigh-Belt-Feeder-1.5.pdf": "bbdf1b02914419f63375666806f81362",
 "assets/assets/pdfs/DataSheets/VAC/DS-BBU.pdf": "42301e1e5b28bddb536e8515efd43c56",
 "assets/assets/pdfs/DataSheets/VAC/DS-Transporte-Neumatico.pdf": "fc1ef62574372ad001824499d5f9dab4",
 "assets/assets/pdfs/DataSheets/WMS/DS-Rotatorias.pdf": "b340462a1e9a5bc9157594c75b58966c",
@@ -94,14 +94,14 @@ const RESOURCES = {"assets/AssetManifest.bin": "4566cf49053690aededf3a4e19b5c433
 "canvaskit/skwasm_heavy.wasm": "8034ad26ba2485dab2fd49bdd786837b",
 "favicon.png": "130baa4207187bdf908dc59af212d5b8",
 "flutter.js": "888483df48293866f9f41d3d9274a779",
-"flutter_bootstrap.js": "7edd9b546ffbf32aff4c4e2bd1d9c058",
+"flutter_bootstrap.js": "b421eca46488ec90ac1c15e9bcd4d866",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "index.html": "5ac98ad370b164f6456c9019475dd7ed",
 "/": "5ac98ad370b164f6456c9019475dd7ed",
-"main.dart.js": "afb0af957488a4b6623d7ad62651ab3c",
+"main.dart.js": "0995a107cdf6e70aac4ca082e0729c47",
 "manifest.json": "6e7e9ff2190e01e45b7847e1233ae797",
 "version.json": "1590cbe16a9298b1ece499fd7ce5d3de"};
 // The application shell files that are downloaded before a service worker can
